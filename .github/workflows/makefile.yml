@@ -21,4 +21,4 @@ jobs:
       uses: wearerequired/lint-action@v1
 
     - name: Run write good
-      uses: btford/write-good@v1.0.8
+      uses: btford/write-good
